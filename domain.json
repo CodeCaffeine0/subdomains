@@ -1,0 +1,6 @@
+{
+  "domain": "this-is-a.great-site.net",
+  "subdomain": "example",
+  "cname1": "example.github.io",
+  "cname2": "blank"
+}
